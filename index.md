@@ -99,3 +99,6 @@ What\'s the solution?  I don\'t claim to know.  I\'m a computer scientist, not a
 3.  Clearly-delineated performance guarantees in ISP-customer marketing and contracts:  *e.g.* How much *actual* bandwidth can the customer expect to the core Internet and/or specific destinations?  With what probability will the customer see that performance?  If there are caps or throttling on individual usage, what exactly is the allowed rate?
 
 4.  End-user-controlled prioritization:  If different packets are prioritized or treated differently, that should be under the control of the customer.
+
+# About
+I wrote this in an attempt to add a little bit of technical nuance to the discussion of network neutrality.  I am a [computer scientist](http://www.cs.cmu.edu/~andersoe), but this is not my area of expertise within the field.
