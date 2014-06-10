@@ -3,6 +3,9 @@ layout: default
 title: Network Neutrality Primer
 ---
 
+* Blah
+{:toc}
+
 # The Internet, Simplified
  
 This picture shows a somewhat simplified view of who the players are in the current internet, and how they interact.  Clouds are networks belonging to a particular company. Black arrows show the flow of traffic, green arrows show the flow of money.
@@ -49,6 +52,7 @@ If an ISP is only connected to the rest of the Internet through its upstream pro
 It gets tricky, though, because there are several things that ISPs can do to improve performance relative to the previous pictures.  These are all good things to do, but they selectively improve the connection between an ISP and some other specific network.   That means that, by doing these things or declining to do so, an ISP can favor or disfavor a content provider without *explicitly* treating their traffic differently.  Here are a couple of big ones: 
 
 ### Peering
+{:.no_toc}
 
 In the previous figures, all of the connections between networks (except for the Tier 1s) were customer-provider relationships.  In those cases, it\'s clear-cut who\'s paying whom.  Whether they\'re sending or receiving data, the customer is purchasing the service from the provider, and they pay for it.  Sometimes, though, it makes sense for networks which aren\'t in a customer-provider relationship to directly connect.  For example, suppose Google and Comcast can talk to each other directly and cut out the middlemen of their upstream providers.   Depending on the technical details, that might very well deliver better performance  and/or lower costs.   The next figure shows such a connection.  Frequently, such arrangements are \"settlement free\" -- both companies save money, both companies get better performance for themselves or their customers, and neither compensates the other.  But not always.
 
@@ -64,6 +68,7 @@ the content providers they *don\'t* want to degrade.  If the ISP does
 have an obligation to peer, then under what terms?  Can the ISP charge the content provider?  If so, how much?  If they can demand arbitrarily high payment, that\'s pretty much equivalent to not having to peer.  If not, how is an acceptable rate calculated, and by whom?
 
 ### Content Delivery Networks
+{:.no_toc}
 
 Another \"optional improvement\" is content delivery networks.  Frequently, when you interact with a large web service, (some of) the data you get isn\'t coming from their central servers.  To provide better service -- and possibly save money on bandwidth -- companies use what are called \"Content Distribution Networks\" or CDNs.  These have many servers spread around the world, and they try to handle users\' requests using nearby servers, instead of having to serve everyone from a single location.
 
