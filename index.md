@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foo
+title: Network Neutrality Primer
 ---
 
 # The Internet, Simplified

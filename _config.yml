@@ -2,6 +2,6 @@ markdown: kramdown
 pygments: true
 
 title_tag_text: A Network Neutrality Primer
-h1_tag_text: Network Neutrality
+h1_tag_text: A Network Neutrality Primer
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
