@@ -31,7 +31,7 @@ Now, the ISPs don\'t really want to do that, either, because you do often have *
 
 There are a few things that make it harder to define what a \"network neutrality violation\" really looks like. 
 
-## Variations on the Shakedown
+## Variations
 
 There are lots of subtle alternatives to directly blocking a service and demanding a ransom.  They work out about the same, but are harder to prove, and harder to forbid without also banning useful innovations.  Here are a couple:
 
