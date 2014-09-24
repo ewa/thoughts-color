@@ -92,7 +92,7 @@ What\'s the solution?  I don\'t claim to know.  I\'m a computer scientist, not a
 
 0.  Last-mile ISPs are what I\'m concerned about.  Core Internet service is a different beast.
 
-1.  Non-discrimination and transparency in inter-ISP or ISP-content-provider interconnect agreements:  The same peering, co-location, etc. services should be available at the same price to anyone.
+1.  Non-discrimination and transparency in inter-ISP or ISP-content-provider interconnect agreements:  The same peering, co-location, etc. services should be available at the same price to anyone.  This needs to exclude nominally-technical criteria that \"happen\" to treat content providers differently from other networks.
 
 2.  No conflict of interest (or careful supervision):  If an ISP offers services other than pure data transport, and those services are in competition with what\'s available over the public Internet, the onus should be on the ISP to demonstrate that they are not in any way disadvantaging the public Internet relative to their own offerings.
 
@@ -100,5 +100,14 @@ What\'s the solution?  I don\'t claim to know.  I\'m a computer scientist, not a
 
 4.  End-user-controlled prioritization:  If different packets are prioritized or treated differently, that should be under the control of the customer.
 
+# References
+
+## Technical
+  * [Dr. Peering](http://drpeering.net/white-papers/An-Internet-Peering-White-Papers-Index.html):  A great set of references on the technical and business sides of inter-ISP connections.  Mostly written for a network operator audience.  See especially: [The 21st Century Internet Peering Ecosystem](http://drpeering.net/core/ch10.2-The-21st-Century-Internet-Peering-Ecosystem.htm) and [Access Power Peering](http://drpeering.net/AskDrPeering/blog/articles/Ask_DrPeering/Entries/2011/9/6_Access_Power_Peering.html).
+
+## News
+  * [Comcast is destroying the principle that makes a competitive internet possible](http://www.vox.com/2014/5/6/5678080/voxsplaining-telecom/in/5451297):  This is obviously an essay with an opinion.  It's also a pretty good discussion.
+  * [Beyond net neutrality: The new battle for the future of the internet](http://www.vox.com/2014/5/2/5665890/beyond-net-neutrality-the-new-battle-for-the-future-of-the-internet):  Another essay by Tim Lee, with pretty animations.
+  
 # About
-I wrote this in an attempt to add a little bit of technical nuance to the discussion of network neutrality.  I am a [computer scientist](http://www.cs.cmu.edu/~andersoe), but this is not my area of expertise within the field.
+My name is [Eric Anderson](http://www.cs.cmu.edu/~andersoe), and I wrote this in an attempt to add a little bit of technical nuance to the discussion of network neutrality.  I am a computer scientist, but this is not my area of expertise within the field.
