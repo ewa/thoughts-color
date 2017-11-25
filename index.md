@@ -110,4 +110,4 @@ What\'s the solution?  I don\'t claim to know.  I\'m a computer scientist, not a
   * [Beyond net neutrality: The new battle for the future of the internet](http://www.vox.com/2014/5/2/5665890/beyond-net-neutrality-the-new-battle-for-the-future-of-the-internet):  Another essay by Tim Lee, with pretty animations.
   
 # About
-My name is [Eric Anderson](http://www.cs.cmu.edu/~andersoe), and I wrote this in an attempt to add a little bit of technical nuance to the discussion of network neutrality.  I am a computer scientist, but this is not my area of expertise within the field.
+My name is [Eric Anderson](http://www.cs.cmu.edu/~andersoe), and I wrote this in an attempt to add a little bit of technical nuance to the discussion of network neutrality.  I am a computer scientist, but this is not my area of expertise within the field.  (Update:  I wrote this in 2014, when I was CMU faculty.  I moved to a government position in 2016, but these are my own personal thoughts and not those of my employer).
