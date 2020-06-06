@@ -1,8 +1,3 @@
----
-layout: default
-title: Color Is Not a Spectrum
----
-
 * Blah
 {:toc}
 
